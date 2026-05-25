@@ -1,0 +1,10 @@
+
+*.class
+bin/
+.vscode/
+.DS_Store
+Thumbs.db
+
+target/
+build/
+.gradle/

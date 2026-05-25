@@ -1,0 +1,4 @@
+policyNumber,holderName,type,status,premiumAmount,effectiveDate,expirationDate
+POL-005,Robert Brown,AUTO,ACTIVE,950.0,2025-09-01,2026-05-01
+POL-008,Jennifer Wilson,HEALTH,ACTIVE,2800.0,2025-05-15,2026-04-25
+POL-002,Joydev Mondal,HOME,ACTIVE,2500.0,2025-05-01,2026-06-15
